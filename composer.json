@@ -28,7 +28,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "lavrentiev\\widgets\\toastr\\": "src"
+      "edwinhaq\\widgets\\toastr\\": "src"
     }
   }
 }
