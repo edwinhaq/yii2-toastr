@@ -1,5 +1,5 @@
 {
-  "name": "lavrentiev/yii2-toastr",
+  "name": "edwinhaq/yii2-toastr",
   "description": "Simple javascript toast notifications",
   "keywords": ["yii2", "extension", "jquery", "toastr", "notification"],
   "type": "yii2-extension",
@@ -11,9 +11,9 @@
   },
   "authors": [
     {
-      "name": "Eugene Lavrentiev (RyanTedder)",
-      "email": "lavrentiev.e@gmail.com",
-      "homepage": "https://github.com/lavrentiev"
+      "name": "Edwin Artunduaga",
+      "email": "edwinhaq@gmail.com",
+      "homepage": "https://github.com/edwinhaq"
     }
   ],
   "require": {
